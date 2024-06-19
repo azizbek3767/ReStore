@@ -23,5 +23,6 @@ npm install @mui/icons-material
 npm install react-router-dom
 npm install axios
 npm install react-toastify
+npm install @mui/lab
 
 dotnet ef migrations add BasketEntityAdded
