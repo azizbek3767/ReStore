@@ -24,5 +24,6 @@ npm install react-router-dom
 npm install axios
 npm install react-toastify
 npm install @mui/lab
+npm install redux react-redux
 
 dotnet ef migrations add BasketEntityAdded
