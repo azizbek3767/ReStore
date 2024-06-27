@@ -25,5 +25,6 @@ npm install axios
 npm install react-toastify
 npm install @mui/lab
 npm install redux react-redux
+npm install @reduxjs/toolkit
 
 dotnet ef migrations add BasketEntityAdded
